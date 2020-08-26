@@ -1,5 +1,5 @@
-RevealJS-Docker
-===============
+Effective Java Slides (using RevealJS-Docker)
+=============================================
 
 A dockerized version of the [Reveal JS](http://lab.hakim.se/reveal-js/#/) presentation software. To try it out, just do:
 
